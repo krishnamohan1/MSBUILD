@@ -1,0 +1,8 @@
+c:\users\krishna.g.mohan\source\repos\ClassLibraryProject\StringLibraray\bin\Debug\netstandard1.6\StringLibraray.deps.json
+c:\users\krishna.g.mohan\source\repos\ClassLibraryProject\StringLibraray\bin\Debug\netstandard1.6\StringLibraray.dll
+c:\users\krishna.g.mohan\source\repos\ClassLibraryProject\StringLibraray\bin\Debug\netstandard1.6\StringLibraray.pdb
+c:\users\krishna.g.mohan\source\repos\ClassLibraryProject\StringLibraray\obj\Debug\netstandard1.6\StringLibraray.csprojResolveAssemblyReference.cache
+c:\users\krishna.g.mohan\source\repos\ClassLibraryProject\StringLibraray\obj\Debug\netstandard1.6\StringLibraray.csproj.CoreCompileInputs.cache
+c:\users\krishna.g.mohan\source\repos\ClassLibraryProject\StringLibraray\obj\Debug\netstandard1.6\StringLibraray.AssemblyInfo.cs
+c:\users\krishna.g.mohan\source\repos\ClassLibraryProject\StringLibraray\obj\Debug\netstandard1.6\StringLibraray.dll
+c:\users\krishna.g.mohan\source\repos\ClassLibraryProject\StringLibraray\obj\Debug\netstandard1.6\StringLibraray.pdb
